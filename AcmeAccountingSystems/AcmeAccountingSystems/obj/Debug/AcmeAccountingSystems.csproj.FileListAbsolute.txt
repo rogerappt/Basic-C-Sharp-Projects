@@ -1,0 +1,7 @@
+C:\Users\mariu\Desktop\Basic_C#_Programs\Basic_C#_Programs folder\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.csproj.AssemblyReference.cache
+C:\Users\mariu\Desktop\Basic_C#_Programs\Basic_C#_Programs folder\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Desktop\Basic_C#_Programs\Basic_C#_Programs folder\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\AcmeAccountingSystems.exe.config
+C:\Users\mariu\Desktop\Basic_C#_Programs\Basic_C#_Programs folder\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\AcmeAccountingSystems.exe
+C:\Users\mariu\Desktop\Basic_C#_Programs\Basic_C#_Programs folder\AcmeAccountingSystems\AcmeAccountingSystems\bin\Debug\AcmeAccountingSystems.pdb
+C:\Users\mariu\Desktop\Basic_C#_Programs\Basic_C#_Programs folder\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.exe
+C:\Users\mariu\Desktop\Basic_C#_Programs\Basic_C#_Programs folder\AcmeAccountingSystems\AcmeAccountingSystems\obj\Debug\AcmeAccountingSystems.pdb
