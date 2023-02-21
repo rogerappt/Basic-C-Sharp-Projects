@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mariu\\Documents\\GitHub\\Basic-C-Sharp-Projects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\mariu\\Documents\\GitHub\\Basic-C-Sharp-Projects\\MathOperationAssignmentSubmission\\MathOperationAssignmentSubmission\\MathOperationAssignmentSubmission.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mariu\\Documents\\GitHub\\Basic-C-Sharp-Projects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\mariu\\Documents\\GitHub\\Basic-C-Sharp-Projects\\MathOperationAssignmentSubmission\\MathOperationAssignmentSubmission\\MathOperationAssignmentSubmission.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mariu\\Documents\\GitHub\\Basic-C-Sharp-Projects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\mariu\\Documents\\GitHub\\Basic-C-Sharp-Projects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\mariu\\Documents\\GitHub\\Basic-C-Sharp-Projects\\MathOperationAssignmentSubmission\\MathOperationAssignmentSubmission\\MathOperationAssignmentSubmission.csproj",
+        "projectName": "MathOperationAssignmentSubmission",
+        "projectPath": "C:\\Users\\mariu\\Documents\\GitHub\\Basic-C-Sharp-Projects\\MathOperationAssignmentSubmission\\MathOperationAssignmentSubmission\\MathOperationAssignmentSubmission.csproj",
         "packagesPath": "C:\\Users\\mariu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mariu\\Documents\\GitHub\\Basic-C-Sharp-Projects\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\mariu\\Documents\\GitHub\\Basic-C-Sharp-Projects\\MathOperationAssignmentSubmission\\MathOperationAssignmentSubmission\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mariu\\AppData\\Roaming\\NuGet\\NuGet.Config",
