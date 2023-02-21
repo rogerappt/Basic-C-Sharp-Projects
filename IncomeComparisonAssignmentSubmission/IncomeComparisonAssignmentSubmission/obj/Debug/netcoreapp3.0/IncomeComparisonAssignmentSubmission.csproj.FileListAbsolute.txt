@@ -1,0 +1,13 @@
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignmentSubmission\IncomeComparisonAssignmentSubmission\bin\Debug\netcoreapp3.0\IncomeComparisonAssignmentSubmission.exe
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignmentSubmission\IncomeComparisonAssignmentSubmission\bin\Debug\netcoreapp3.0\IncomeComparisonAssignmentSubmission.deps.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignmentSubmission\IncomeComparisonAssignmentSubmission\bin\Debug\netcoreapp3.0\IncomeComparisonAssignmentSubmission.runtimeconfig.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignmentSubmission\IncomeComparisonAssignmentSubmission\bin\Debug\netcoreapp3.0\IncomeComparisonAssignmentSubmission.runtimeconfig.dev.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignmentSubmission\IncomeComparisonAssignmentSubmission\bin\Debug\netcoreapp3.0\IncomeComparisonAssignmentSubmission.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignmentSubmission\IncomeComparisonAssignmentSubmission\bin\Debug\netcoreapp3.0\IncomeComparisonAssignmentSubmission.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignmentSubmission\IncomeComparisonAssignmentSubmission\obj\Debug\netcoreapp3.0\IncomeComparisonAssignmentSubmission.csproj.AssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignmentSubmission\IncomeComparisonAssignmentSubmission\obj\Debug\netcoreapp3.0\IncomeComparisonAssignmentSubmission.AssemblyInfoInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignmentSubmission\IncomeComparisonAssignmentSubmission\obj\Debug\netcoreapp3.0\IncomeComparisonAssignmentSubmission.AssemblyInfo.cs
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignmentSubmission\IncomeComparisonAssignmentSubmission\obj\Debug\netcoreapp3.0\IncomeComparisonAssignmentSubmission.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignmentSubmission\IncomeComparisonAssignmentSubmission\obj\Debug\netcoreapp3.0\IncomeComparisonAssignmentSubmission.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignmentSubmission\IncomeComparisonAssignmentSubmission\obj\Debug\netcoreapp3.0\IncomeComparisonAssignmentSubmission.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\IncomeComparisonAssignmentSubmission\IncomeComparisonAssignmentSubmission\obj\Debug\netcoreapp3.0\IncomeComparisonAssignmentSubmission.genruntimeconfig.cache
