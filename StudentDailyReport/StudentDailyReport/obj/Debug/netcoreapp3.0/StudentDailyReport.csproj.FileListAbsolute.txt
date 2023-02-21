@@ -1,0 +1,13 @@
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StudentDailyReport\StudentDailyReport\bin\Debug\netcoreapp3.0\StudentDailyReport.exe
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StudentDailyReport\StudentDailyReport\bin\Debug\netcoreapp3.0\StudentDailyReport.deps.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StudentDailyReport\StudentDailyReport\bin\Debug\netcoreapp3.0\StudentDailyReport.runtimeconfig.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StudentDailyReport\StudentDailyReport\bin\Debug\netcoreapp3.0\StudentDailyReport.runtimeconfig.dev.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StudentDailyReport\StudentDailyReport\bin\Debug\netcoreapp3.0\StudentDailyReport.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StudentDailyReport\StudentDailyReport\bin\Debug\netcoreapp3.0\StudentDailyReport.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\netcoreapp3.0\StudentDailyReport.csproj.AssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\netcoreapp3.0\StudentDailyReport.AssemblyInfoInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\netcoreapp3.0\StudentDailyReport.AssemblyInfo.cs
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\netcoreapp3.0\StudentDailyReport.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\netcoreapp3.0\StudentDailyReport.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\netcoreapp3.0\StudentDailyReport.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\netcoreapp3.0\StudentDailyReport.genruntimeconfig.cache

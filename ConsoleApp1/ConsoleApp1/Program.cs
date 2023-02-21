@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StudentDailyReport
+namespace ConsoleApp1
 {
     class Program
     {
