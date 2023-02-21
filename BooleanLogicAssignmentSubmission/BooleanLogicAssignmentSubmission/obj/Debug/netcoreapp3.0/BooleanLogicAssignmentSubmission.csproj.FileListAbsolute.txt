@@ -1,0 +1,13 @@
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignmentSubmission\BooleanLogicAssignmentSubmission\bin\Debug\netcoreapp3.0\BooleanLogicAssignmentSubmission.exe
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignmentSubmission\BooleanLogicAssignmentSubmission\bin\Debug\netcoreapp3.0\BooleanLogicAssignmentSubmission.deps.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignmentSubmission\BooleanLogicAssignmentSubmission\bin\Debug\netcoreapp3.0\BooleanLogicAssignmentSubmission.runtimeconfig.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignmentSubmission\BooleanLogicAssignmentSubmission\bin\Debug\netcoreapp3.0\BooleanLogicAssignmentSubmission.runtimeconfig.dev.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignmentSubmission\BooleanLogicAssignmentSubmission\bin\Debug\netcoreapp3.0\BooleanLogicAssignmentSubmission.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignmentSubmission\BooleanLogicAssignmentSubmission\bin\Debug\netcoreapp3.0\BooleanLogicAssignmentSubmission.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignmentSubmission\BooleanLogicAssignmentSubmission\obj\Debug\netcoreapp3.0\BooleanLogicAssignmentSubmission.csproj.AssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignmentSubmission\BooleanLogicAssignmentSubmission\obj\Debug\netcoreapp3.0\BooleanLogicAssignmentSubmission.AssemblyInfoInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignmentSubmission\BooleanLogicAssignmentSubmission\obj\Debug\netcoreapp3.0\BooleanLogicAssignmentSubmission.AssemblyInfo.cs
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignmentSubmission\BooleanLogicAssignmentSubmission\obj\Debug\netcoreapp3.0\BooleanLogicAssignmentSubmission.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignmentSubmission\BooleanLogicAssignmentSubmission\obj\Debug\netcoreapp3.0\BooleanLogicAssignmentSubmission.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignmentSubmission\BooleanLogicAssignmentSubmission\obj\Debug\netcoreapp3.0\BooleanLogicAssignmentSubmission.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\BooleanLogicAssignmentSubmission\BooleanLogicAssignmentSubmission\obj\Debug\netcoreapp3.0\BooleanLogicAssignmentSubmission.genruntimeconfig.cache
