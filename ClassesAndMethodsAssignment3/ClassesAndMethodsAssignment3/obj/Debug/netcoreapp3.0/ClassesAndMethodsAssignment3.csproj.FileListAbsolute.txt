@@ -1,0 +1,12 @@
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\bin\Debug\netcoreapp3.0\ClassesAndMethodsAssignment3.exe
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\bin\Debug\netcoreapp3.0\ClassesAndMethodsAssignment3.deps.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\bin\Debug\netcoreapp3.0\ClassesAndMethodsAssignment3.runtimeconfig.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\bin\Debug\netcoreapp3.0\ClassesAndMethodsAssignment3.runtimeconfig.dev.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\bin\Debug\netcoreapp3.0\ClassesAndMethodsAssignment3.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\bin\Debug\netcoreapp3.0\ClassesAndMethodsAssignment3.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\obj\Debug\netcoreapp3.0\ClassesAndMethodsAssignment3.AssemblyInfoInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\obj\Debug\netcoreapp3.0\ClassesAndMethodsAssignment3.AssemblyInfo.cs
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\obj\Debug\netcoreapp3.0\ClassesAndMethodsAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\obj\Debug\netcoreapp3.0\ClassesAndMethodsAssignment3.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\obj\Debug\netcoreapp3.0\ClassesAndMethodsAssignment3.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ClassesAndMethodsAssignment3\ClassesAndMethodsAssignment3\obj\Debug\netcoreapp3.0\ClassesAndMethodsAssignment3.genruntimeconfig.cache
