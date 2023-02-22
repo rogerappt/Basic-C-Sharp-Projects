@@ -1,0 +1,12 @@
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\LoopAssignmentSubmission\LoopAssignmentSubmission\bin\Debug\netcoreapp3.0\LoopAssignmentSubmission.exe
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\LoopAssignmentSubmission\LoopAssignmentSubmission\bin\Debug\netcoreapp3.0\LoopAssignmentSubmission.deps.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\LoopAssignmentSubmission\LoopAssignmentSubmission\bin\Debug\netcoreapp3.0\LoopAssignmentSubmission.runtimeconfig.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\LoopAssignmentSubmission\LoopAssignmentSubmission\bin\Debug\netcoreapp3.0\LoopAssignmentSubmission.runtimeconfig.dev.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\LoopAssignmentSubmission\LoopAssignmentSubmission\bin\Debug\netcoreapp3.0\LoopAssignmentSubmission.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\LoopAssignmentSubmission\LoopAssignmentSubmission\bin\Debug\netcoreapp3.0\LoopAssignmentSubmission.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\LoopAssignmentSubmission\LoopAssignmentSubmission\obj\Debug\netcoreapp3.0\LoopAssignmentSubmission.AssemblyInfoInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\LoopAssignmentSubmission\LoopAssignmentSubmission\obj\Debug\netcoreapp3.0\LoopAssignmentSubmission.AssemblyInfo.cs
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\LoopAssignmentSubmission\LoopAssignmentSubmission\obj\Debug\netcoreapp3.0\LoopAssignmentSubmission.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\LoopAssignmentSubmission\LoopAssignmentSubmission\obj\Debug\netcoreapp3.0\LoopAssignmentSubmission.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\LoopAssignmentSubmission\LoopAssignmentSubmission\obj\Debug\netcoreapp3.0\LoopAssignmentSubmission.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\LoopAssignmentSubmission\LoopAssignmentSubmission\obj\Debug\netcoreapp3.0\LoopAssignmentSubmission.genruntimeconfig.cache
