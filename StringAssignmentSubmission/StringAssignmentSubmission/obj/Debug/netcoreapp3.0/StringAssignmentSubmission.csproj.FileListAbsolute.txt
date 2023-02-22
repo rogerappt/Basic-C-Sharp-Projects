@@ -1,0 +1,13 @@
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StringAssignmentSubmission\StringAssignmentSubmission\obj\Debug\netcoreapp3.0\StringAssignmentSubmission.AssemblyInfoInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StringAssignmentSubmission\StringAssignmentSubmission\obj\Debug\netcoreapp3.0\StringAssignmentSubmission.AssemblyInfo.cs
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StringAssignmentSubmission\StringAssignmentSubmission\obj\Debug\netcoreapp3.0\StringAssignmentSubmission.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StringAssignmentSubmission\StringAssignmentSubmission\obj\Debug\netcoreapp3.0\StringAssignmentSubmission.csproj.AssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StringAssignmentSubmission\StringAssignmentSubmission\bin\Debug\netcoreapp3.0\StringAssignmentSubmission.exe
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StringAssignmentSubmission\StringAssignmentSubmission\bin\Debug\netcoreapp3.0\StringAssignmentSubmission.deps.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StringAssignmentSubmission\StringAssignmentSubmission\bin\Debug\netcoreapp3.0\StringAssignmentSubmission.runtimeconfig.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StringAssignmentSubmission\StringAssignmentSubmission\bin\Debug\netcoreapp3.0\StringAssignmentSubmission.runtimeconfig.dev.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StringAssignmentSubmission\StringAssignmentSubmission\bin\Debug\netcoreapp3.0\StringAssignmentSubmission.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StringAssignmentSubmission\StringAssignmentSubmission\bin\Debug\netcoreapp3.0\StringAssignmentSubmission.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StringAssignmentSubmission\StringAssignmentSubmission\obj\Debug\netcoreapp3.0\StringAssignmentSubmission.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StringAssignmentSubmission\StringAssignmentSubmission\obj\Debug\netcoreapp3.0\StringAssignmentSubmission.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StringAssignmentSubmission\StringAssignmentSubmission\obj\Debug\netcoreapp3.0\StringAssignmentSubmission.genruntimeconfig.cache

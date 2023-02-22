@@ -1,0 +1,4 @@
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ArraysAssignment\ArraysAssignment\obj\Debug\netcoreapp3.0\ArraysAssignment.csproj.AssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ArraysAssignment\ArraysAssignment\obj\Debug\netcoreapp3.0\ArraysAssignment.AssemblyInfoInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ArraysAssignment\ArraysAssignment\obj\Debug\netcoreapp3.0\ArraysAssignment.AssemblyInfo.cs
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ArraysAssignment\ArraysAssignment\obj\Debug\netcoreapp3.0\ArraysAssignment.csproj.CoreCompileInputs.cache
