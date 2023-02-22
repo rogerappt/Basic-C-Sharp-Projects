@@ -1,0 +1,13 @@
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionAssignment\ExceptionAssignment\bin\Debug\netcoreapp3.0\ExceptionAssignment.exe
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionAssignment\ExceptionAssignment\bin\Debug\netcoreapp3.0\ExceptionAssignment.deps.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionAssignment\ExceptionAssignment\bin\Debug\netcoreapp3.0\ExceptionAssignment.runtimeconfig.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionAssignment\ExceptionAssignment\bin\Debug\netcoreapp3.0\ExceptionAssignment.runtimeconfig.dev.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionAssignment\ExceptionAssignment\bin\Debug\netcoreapp3.0\ExceptionAssignment.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionAssignment\ExceptionAssignment\bin\Debug\netcoreapp3.0\ExceptionAssignment.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.0\ExceptionAssignment.csproj.AssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.0\ExceptionAssignment.AssemblyInfoInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.0\ExceptionAssignment.AssemblyInfo.cs
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.0\ExceptionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.0\ExceptionAssignment.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.0\ExceptionAssignment.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionAssignment\ExceptionAssignment\obj\Debug\netcoreapp3.0\ExceptionAssignment.genruntimeconfig.cache
