@@ -1,0 +1,13 @@
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassesAssignment\AbstractClassesAssignment\bin\Debug\netcoreapp3.0\AbstractClassesAssignment.exe
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassesAssignment\AbstractClassesAssignment\bin\Debug\netcoreapp3.0\AbstractClassesAssignment.deps.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassesAssignment\AbstractClassesAssignment\bin\Debug\netcoreapp3.0\AbstractClassesAssignment.runtimeconfig.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassesAssignment\AbstractClassesAssignment\bin\Debug\netcoreapp3.0\AbstractClassesAssignment.runtimeconfig.dev.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassesAssignment\AbstractClassesAssignment\bin\Debug\netcoreapp3.0\AbstractClassesAssignment.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassesAssignment\AbstractClassesAssignment\bin\Debug\netcoreapp3.0\AbstractClassesAssignment.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\netcoreapp3.0\AbstractClassesAssignment.csproj.AssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\netcoreapp3.0\AbstractClassesAssignment.AssemblyInfoInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\netcoreapp3.0\AbstractClassesAssignment.AssemblyInfo.cs
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\netcoreapp3.0\AbstractClassesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\netcoreapp3.0\AbstractClassesAssignment.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\netcoreapp3.0\AbstractClassesAssignment.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\netcoreapp3.0\AbstractClassesAssignment.genruntimeconfig.cache
