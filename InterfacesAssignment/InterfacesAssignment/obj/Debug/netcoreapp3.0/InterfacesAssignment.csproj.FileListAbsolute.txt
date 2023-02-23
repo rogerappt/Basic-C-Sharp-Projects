@@ -1,0 +1,12 @@
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InterfacesAssignment\InterfacesAssignment\bin\Debug\netcoreapp3.0\InterfacesAssignment.exe
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InterfacesAssignment\InterfacesAssignment\bin\Debug\netcoreapp3.0\InterfacesAssignment.deps.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InterfacesAssignment\InterfacesAssignment\bin\Debug\netcoreapp3.0\InterfacesAssignment.runtimeconfig.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InterfacesAssignment\InterfacesAssignment\bin\Debug\netcoreapp3.0\InterfacesAssignment.runtimeconfig.dev.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InterfacesAssignment\InterfacesAssignment\bin\Debug\netcoreapp3.0\InterfacesAssignment.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InterfacesAssignment\InterfacesAssignment\bin\Debug\netcoreapp3.0\InterfacesAssignment.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InterfacesAssignment\InterfacesAssignment\obj\Debug\netcoreapp3.0\InterfacesAssignment.AssemblyInfoInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InterfacesAssignment\InterfacesAssignment\obj\Debug\netcoreapp3.0\InterfacesAssignment.AssemblyInfo.cs
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InterfacesAssignment\InterfacesAssignment\obj\Debug\netcoreapp3.0\InterfacesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InterfacesAssignment\InterfacesAssignment\obj\Debug\netcoreapp3.0\InterfacesAssignment.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InterfacesAssignment\InterfacesAssignment\obj\Debug\netcoreapp3.0\InterfacesAssignment.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InterfacesAssignment\InterfacesAssignment\obj\Debug\netcoreapp3.0\InterfacesAssignment.genruntimeconfig.cache
