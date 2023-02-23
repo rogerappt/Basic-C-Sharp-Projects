@@ -1,0 +1,12 @@
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StructsAssignment\StructsAssignment\bin\Debug\netcoreapp3.0\StructsAssignment.exe
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StructsAssignment\StructsAssignment\bin\Debug\netcoreapp3.0\StructsAssignment.deps.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StructsAssignment\StructsAssignment\bin\Debug\netcoreapp3.0\StructsAssignment.runtimeconfig.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StructsAssignment\StructsAssignment\bin\Debug\netcoreapp3.0\StructsAssignment.runtimeconfig.dev.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StructsAssignment\StructsAssignment\bin\Debug\netcoreapp3.0\StructsAssignment.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StructsAssignment\StructsAssignment\bin\Debug\netcoreapp3.0\StructsAssignment.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StructsAssignment\StructsAssignment\obj\Debug\netcoreapp3.0\StructsAssignment.AssemblyInfoInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StructsAssignment\StructsAssignment\obj\Debug\netcoreapp3.0\StructsAssignment.AssemblyInfo.cs
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StructsAssignment\StructsAssignment\obj\Debug\netcoreapp3.0\StructsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StructsAssignment\StructsAssignment\obj\Debug\netcoreapp3.0\StructsAssignment.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StructsAssignment\StructsAssignment\obj\Debug\netcoreapp3.0\StructsAssignment.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\StructsAssignment\StructsAssignment\obj\Debug\netcoreapp3.0\StructsAssignment.genruntimeconfig.cache
