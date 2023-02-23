@@ -1,0 +1,13 @@
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\bin\Debug\netcoreapp3.0\GenericsAssignment.exe
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\bin\Debug\netcoreapp3.0\GenericsAssignment.deps.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\bin\Debug\netcoreapp3.0\GenericsAssignment.runtimeconfig.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\bin\Debug\netcoreapp3.0\GenericsAssignment.runtimeconfig.dev.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\bin\Debug\netcoreapp3.0\GenericsAssignment.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\bin\Debug\netcoreapp3.0\GenericsAssignment.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\obj\Debug\netcoreapp3.0\GenericsAssignment.csproj.AssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\obj\Debug\netcoreapp3.0\GenericsAssignment.AssemblyInfoInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\obj\Debug\netcoreapp3.0\GenericsAssignment.AssemblyInfo.cs
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\obj\Debug\netcoreapp3.0\GenericsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\obj\Debug\netcoreapp3.0\GenericsAssignment.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\obj\Debug\netcoreapp3.0\GenericsAssignment.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\GenericsAssignment\GenericsAssignment\obj\Debug\netcoreapp3.0\GenericsAssignment.genruntimeconfig.cache
