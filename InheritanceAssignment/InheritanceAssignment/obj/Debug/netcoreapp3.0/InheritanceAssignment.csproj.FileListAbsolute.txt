@@ -1,0 +1,13 @@
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.0\InheritanceAssignment.exe
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.0\InheritanceAssignment.deps.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.0\InheritanceAssignment.runtimeconfig.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.0\InheritanceAssignment.runtimeconfig.dev.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.0\InheritanceAssignment.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\bin\Debug\netcoreapp3.0\InheritanceAssignment.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.0\InheritanceAssignment.csproj.AssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.0\InheritanceAssignment.AssemblyInfoInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.0\InheritanceAssignment.AssemblyInfo.cs
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.0\InheritanceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.0\InheritanceAssignment.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.0\InheritanceAssignment.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\InheritanceAssignment\InheritanceAssignment\obj\Debug\netcoreapp3.0\InheritanceAssignment.genruntimeconfig.cache
