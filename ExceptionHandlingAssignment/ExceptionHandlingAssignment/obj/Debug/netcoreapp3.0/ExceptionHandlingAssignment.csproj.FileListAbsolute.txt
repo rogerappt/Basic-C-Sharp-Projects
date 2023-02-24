@@ -1,0 +1,13 @@
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\netcoreapp3.0\ExceptionHandlingAssignment.exe
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\netcoreapp3.0\ExceptionHandlingAssignment.deps.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\netcoreapp3.0\ExceptionHandlingAssignment.runtimeconfig.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\netcoreapp3.0\ExceptionHandlingAssignment.runtimeconfig.dev.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\netcoreapp3.0\ExceptionHandlingAssignment.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\bin\Debug\netcoreapp3.0\ExceptionHandlingAssignment.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.0\ExceptionHandlingAssignment.csproj.AssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.0\ExceptionHandlingAssignment.AssemblyInfoInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.0\ExceptionHandlingAssignment.AssemblyInfo.cs
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.0\ExceptionHandlingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.0\ExceptionHandlingAssignment.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.0\ExceptionHandlingAssignment.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ExceptionHandlingAssignment\ExceptionHandlingAssignment\obj\Debug\netcoreapp3.0\ExceptionHandlingAssignment.genruntimeconfig.cache
