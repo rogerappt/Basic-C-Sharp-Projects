@@ -1,0 +1,13 @@
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\DatetimeAssignment\DatetimeAssignment\bin\Debug\netcoreapp3.0\DatetimeAssignment.exe
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\DatetimeAssignment\DatetimeAssignment\bin\Debug\netcoreapp3.0\DatetimeAssignment.deps.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\DatetimeAssignment\DatetimeAssignment\bin\Debug\netcoreapp3.0\DatetimeAssignment.runtimeconfig.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\DatetimeAssignment\DatetimeAssignment\bin\Debug\netcoreapp3.0\DatetimeAssignment.runtimeconfig.dev.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\DatetimeAssignment\DatetimeAssignment\bin\Debug\netcoreapp3.0\DatetimeAssignment.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\DatetimeAssignment\DatetimeAssignment\bin\Debug\netcoreapp3.0\DatetimeAssignment.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.0\DatetimeAssignment.csproj.AssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.0\DatetimeAssignment.AssemblyInfoInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.0\DatetimeAssignment.AssemblyInfo.cs
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.0\DatetimeAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.0\DatetimeAssignment.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.0\DatetimeAssignment.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\DatetimeAssignment\DatetimeAssignment\obj\Debug\netcoreapp3.0\DatetimeAssignment.genruntimeconfig.cache
