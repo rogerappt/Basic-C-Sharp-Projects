@@ -1,0 +1,12 @@
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\bin\Debug\netcoreapp3.0\AdditionalFeaturesAssignment.exe
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\bin\Debug\netcoreapp3.0\AdditionalFeaturesAssignment.deps.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\bin\Debug\netcoreapp3.0\AdditionalFeaturesAssignment.runtimeconfig.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\bin\Debug\netcoreapp3.0\AdditionalFeaturesAssignment.runtimeconfig.dev.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\bin\Debug\netcoreapp3.0\AdditionalFeaturesAssignment.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\bin\Debug\netcoreapp3.0\AdditionalFeaturesAssignment.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\netcoreapp3.0\AdditionalFeaturesAssignment.AssemblyInfoInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\netcoreapp3.0\AdditionalFeaturesAssignment.AssemblyInfo.cs
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\netcoreapp3.0\AdditionalFeaturesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\netcoreapp3.0\AdditionalFeaturesAssignment.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\netcoreapp3.0\AdditionalFeaturesAssignment.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\AdditionalFeaturesAssignment\AdditionalFeaturesAssignment\obj\Debug\netcoreapp3.0\AdditionalFeaturesAssignment.genruntimeconfig.cache
