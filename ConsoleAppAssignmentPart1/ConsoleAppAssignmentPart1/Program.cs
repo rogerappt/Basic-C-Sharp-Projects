@@ -27,7 +27,7 @@ namespace ConsoleApp
             }
 
             //5. Infinite loop
-            //while (true)
+            while (true)
             {
                 //6. Fixed the infinite loop by adding a break statement
                 Console.WriteLine("Press any key to continue, or 'q' to quit.");
