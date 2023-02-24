@@ -1,0 +1,13 @@
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FileIOAssignment\FileIOAssignment\bin\Debug\netcoreapp3.0\FileIOAssignment.exe
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FileIOAssignment\FileIOAssignment\bin\Debug\netcoreapp3.0\FileIOAssignment.deps.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FileIOAssignment\FileIOAssignment\bin\Debug\netcoreapp3.0\FileIOAssignment.runtimeconfig.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FileIOAssignment\FileIOAssignment\bin\Debug\netcoreapp3.0\FileIOAssignment.runtimeconfig.dev.json
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FileIOAssignment\FileIOAssignment\bin\Debug\netcoreapp3.0\FileIOAssignment.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FileIOAssignment\FileIOAssignment\bin\Debug\netcoreapp3.0\FileIOAssignment.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.0\FileIOAssignment.csproj.AssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.0\FileIOAssignment.AssemblyInfoInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.0\FileIOAssignment.AssemblyInfo.cs
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.0\FileIOAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.0\FileIOAssignment.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.0\FileIOAssignment.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FileIOAssignment\FileIOAssignment\obj\Debug\netcoreapp3.0\FileIOAssignment.genruntimeconfig.cache
