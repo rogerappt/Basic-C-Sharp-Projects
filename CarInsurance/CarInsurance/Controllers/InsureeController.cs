@@ -19,7 +19,10 @@ namespace CarInsurance.Controllers
         {
             return View(db.Tables.ToList());
         }
-
+        public ActionResult Admin()
+        {
+            return View(db.Tables.ToList());
+        }
         // GET: Insuree/Details/5
         public ActionResult Details(int? id)
         {
@@ -50,6 +53,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                table.Quote = CalculateQuote(table);
                 db.Tables.Add(table);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -114,6 +118,62 @@ namespace CarInsurance.Controllers
             db.SaveChanges();
             return RedirectToAction("Index");
         }
+        public decimal CalculateQuote(Table input)
+        {
+            decimal quote = 50; // base price
+            var Age = DateTime.Now.Year - input.DateOfBirth.Year;
+
+
+
+
+            if (Age <= 18)
+            {
+                quote += 100;
+            }
+            else if (Age >= 19 && Age <= 25)
+            {
+                quote += 50;
+            }
+            else
+            {
+                quote += 25;
+            }
+
+            if (input.CarYear < 2000)
+            {
+                quote += 25;
+            }
+            else if (input.CarYear > 2015)
+            {
+                quote += 25;
+            }
+
+            if (input.CarMake == "Porsche")
+            {
+                quote += 25;
+
+                if (input.CarModel == "911 Carrera")
+                {
+                    quote += 25;
+                }
+            }
+            if (input.SpeedingTickets > 0) { 
+            quote += input.SpeedingTickets * 10;}
+
+            if (input.DUI)
+            {
+                quote *= 1.25m;
+            }
+
+            if (input.CoverageType)
+            {
+                quote *= 1.5m;
+            }
+
+            return quote;
+        }
+
+
 
         protected override void Dispose(bool disposing)
         {
