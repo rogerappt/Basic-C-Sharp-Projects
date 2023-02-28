@@ -10,3 +10,4 @@ C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ClassMethodAssignment\Cla
 C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.0\ClassMethodAssignment.dll
 C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.0\ClassMethodAssignment.pdb
 C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.0\ClassMethodAssignment.genruntimeconfig.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\ClassMethodAssignment\ClassMethodAssignment\obj\Debug\netcoreapp3.0\ClassMethodAssignment.csproj.AssemblyReference.cache
