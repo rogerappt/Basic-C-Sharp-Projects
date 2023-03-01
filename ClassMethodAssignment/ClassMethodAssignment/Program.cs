@@ -14,10 +14,8 @@ namespace ConsoleApp
             int input = int.Parse(Console.ReadLine());
 
             // Call the method on the entered number
-            int result = myClass.DivideByTwo(input);
+           myClass.DivideByTwo(input);
 
-            // Display the output
-            Console.WriteLine($"The result of dividing {input} by 2 is: {result}");
 
             // Call the method with output parameters
             int output1, output2;
@@ -36,9 +34,9 @@ namespace ConsoleApp
     // Step 1: Create a class with a void method that outputs an integer
     class MyClass
     {
-        public int DivideByTwo(int number)
+        public void DivideByTwo(int number)
         {
-            return number / 2;
+            Console.WriteLine(number / 2);
         }
 
         // Step 4: Method with output parameters
