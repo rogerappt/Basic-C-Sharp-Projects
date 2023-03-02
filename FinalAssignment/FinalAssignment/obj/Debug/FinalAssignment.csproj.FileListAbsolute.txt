@@ -1,0 +1,12 @@
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FinalAssignment\FinalAssignment\bin\Debug\FinalAssignment.exe.config
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FinalAssignment\FinalAssignment\bin\Debug\FinalAssignment.exe
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FinalAssignment\FinalAssignment\bin\Debug\FinalAssignment.pdb
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FinalAssignment\FinalAssignment\bin\Debug\EntityFramework.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FinalAssignment\FinalAssignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FinalAssignment\FinalAssignment\bin\Debug\EntityFramework.xml
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FinalAssignment\FinalAssignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.csproj.AssemblyReference.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.csproj.CopyComplete
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.exe
+C:\Users\mariu\Documents\GitHub\Basic-C-Sharp-Projects\FinalAssignment\FinalAssignment\obj\Debug\FinalAssignment.pdb
